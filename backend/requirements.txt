@@ -1,0 +1,30 @@
+# Core Web & API
+fastapi>=0.110.0
+pydantic>=2.0
+pydantic-settings>=2.0
+python-multipart>=0.0.9
+uvicorn>=0.28.0
+
+# Database
+sqlalchemy>=2.0.0
+aiosqlite>=0.20.0
+python-dotenv>=1.0.1
+
+# AI & Agentic Orchestration
+groq>=0.9.0
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-groq>=0.1.0
+langgraph>=0.0.30
+langgraph-checkpoint-sqlite>=1.0.0
+
+# Testing
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+httpx>=0.27.0
+
+# Financial Analysis & PDF Parsing
+pandas>=2.0.0
+numpy>=1.24.0
+pdfplumber>=0.10.0
+PyMuPDF>=1.22.0

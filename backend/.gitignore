@@ -1,0 +1,27 @@
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Generated backend data
+app/data/*.db
+app/data/*.sqlite*
+app/finance_checkpoints.db
+app/finance_checkpoints.db-shm
+app/finance_checkpoints.db-wal
+app/csv/*.csv

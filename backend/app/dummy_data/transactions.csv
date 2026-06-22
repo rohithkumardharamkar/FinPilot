@@ -1,0 +1,18 @@
+transaction_id,date,merchant,amount,account_type,description,category
+TXN001,2026-06-01,Swiggy,450.0,UPI,Food Order,Food
+TXN002,2026-06-02,Uber,250.0,UPI,Cab Ride,Transport
+TXN003,2026-04-03,Netflix,649.0,Credit Card,Monthly Subscription,Entertainment
+TXN004,2026-04-10,Spotify,119.0,Credit Card,Music,Entertainment
+TXN005,2026-04-15,ChatGPT,1700.0,Credit Card,AI Assistant,Entertainment
+TXN006,2026-05-03,Netflix,649.0,Credit Card,Monthly Subscription,Entertainment
+TXN007,2026-05-10,Spotify,119.0,Credit Card,Music,Entertainment
+TXN008,2026-05-15,ChatGPT,1700.0,Credit Card,AI Assistant,Entertainment
+TXN009,2026-06-03,Netflix,649.0,Credit Card,Monthly Subscription,Entertainment
+TXN010,2026-06-10,Spotify,119.0,Credit Card,Music,Entertainment
+TXN011,2026-06-15,ChatGPT,1700.0,Credit Card,AI Assistant,Entertainment
+TXN012,2026-06-06,Zomato,1200.0,UPI,Weekend Dinner,Food
+TXN013,2026-06-07,Swiggy,350.0,UPI,Lunch Order,Food
+TXN014,2026-06-10,Amazon,4500.0,Credit Card,Shopping Clothes,Shopping
+TXN015,2026-06-12,H&M,3000.0,Credit Card,Shopping,Shopping
+TXN016,2026-06-20,ABC Store,50000.0,Credit Card,Electronics,Shopping
+TXN017,2026-06-20,Swiggy,500.0,UPI,Late Dinner,Food
