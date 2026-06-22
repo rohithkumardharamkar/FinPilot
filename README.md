@@ -52,3 +52,4 @@ The frontend is configured to call the backend at `http://localhost:8000/api/v1`
 
 - Keep secrets such as `GROQ_API_KEY` out of git and store them only in a local `.env` file.
 - Generated folders such as `venv/`, `node_modules/`, build output, and runtime database files should remain untracked.
+# FinPilot
